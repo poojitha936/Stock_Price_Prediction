@@ -1,1 +1,2 @@
-# Stock_Price_Prediction
+# Stock Prediction
+In this Jupyter notebook code, we predict the stock price of a chosen company using a Long Short-Term Memory (LSTM) neural network. We download historical stock price data from Netflix, preprocess it, and split it into training and testing sets. An LSTM model is built and trained on the training data to forecast stock prices. The code calculates and displays the root mean squared error (RMSE) to assess the model's performance and provides a visual representation of the predictions compared to the actual stock prices.
